@@ -1,0 +1,4 @@
+name: quotex_algorithm_bot
+version: 1.0.0+1
+environment:
+  sdk: ">=2.17.0 <3.0.0"
